@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0037-sudoku-solver) |
 ## Backtracking
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
