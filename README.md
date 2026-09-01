@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [2029-stone-game-ix](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
