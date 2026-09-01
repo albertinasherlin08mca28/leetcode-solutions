@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
