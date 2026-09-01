@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [2029-stone-game-ix](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [2029-stone-game-ix](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/albertinasherlin08mca28/leetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
